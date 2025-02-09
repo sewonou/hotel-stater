@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 import { BsArrowsFullscreen, BsPeople } from 'react-icons/bs';
 
+
 const Room = ({ room }) => {
   const {id, name, image, size, maxPerson, description, price} = room;
   return (

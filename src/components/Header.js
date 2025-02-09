@@ -25,19 +25,19 @@ const Header = () => {
           </a>
           {/* nav */}
           <nav className={`${header ? 'text-primary' : 'text-white'} flex gap-x-4 font-tertiary tracking-[3px] text-[15px] items-center uppercase lg:gap-x-8`}>
-            <a href='' className='hover:text-accent transition'>
+            <a href='/' className='hover:text-accent transition'>
               Home
             </a>
-            <a href='' className='hover:text-accent transition'>
+            <a href='#' className='hover:text-accent transition'>
               Rooms
             </a>
-            <a href='' className='hover:text-accent transition'>
+            <a href='#' className='hover:text-accent transition'>
               Restaurant
             </a>
-            <a href='' className='hover:text-accent transition'>
+            <a href='#' className='hover:text-accent transition'>
               Spa
             </a>
-            <a href='' className='hover:text-accent transition'>
+            <a href='#' className='hover:text-accent transition'>
               Contact
             </a>
           </nav>

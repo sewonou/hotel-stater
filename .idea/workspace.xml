@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,7 +42,8 @@
       <updated>1738358235304</updated>
       <workItem from="1738358257646" duration="17063000" />
       <workItem from="1738450416494" duration="14058000" />
-      <workItem from="1738703507404" duration="1184000" />
+      <workItem from="1738703507404" duration="2568000" />
+      <workItem from="1739095805384" duration="10771000" />
     </task>
     <servers />
   </component>
@@ -50,9 +51,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1477" y="170" key="SettingsEditor" timestamp="1738438545552">
+    <state x="1577" y="182" key="#Notifications" timestamp="1739105673779">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1477" y="170" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1738438545552" />
+    <state x="1577" y="182" key="#Notifications/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1739105673779" />
+    <state x="1477" y="170" key="SettingsEditor" timestamp="1739104897130">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1477" y="170" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1739104897130" />
   </component>
 </project>
